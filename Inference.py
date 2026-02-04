@@ -9,7 +9,7 @@ import pandas as pd
 from dataset_GCN import WSIFeatureDataset
 from models_gcn.GCN_main_TB import TripleStreamGCN
 
-CHECKPOINT_PATH_TEMPLATE = './models_log/TripleStreamGCN_afm_test_tf_efficientnetv2_b0.in1k_ft/2025-09-10_22-23/{fold}/checkpoints/best_model.pth'
+CHECKPOINT_PATH_TEMPLATE = './models_log/{fold}/checkpoints/best_model.pth'
 
 FEATURE_DIR_TEMPLATE = './features/tf_efficientnetv2_b0.in1k_ft/{fold}'
 
