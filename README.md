@@ -2,7 +2,7 @@
 
 ## Data Preparation
 
-Please download the original image dataset and the processed feature files from [Zenodo](link).
+Please download the original image dataset and the processed feature files from [Zenodo](https://zenodo.org/records/18479640?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6Ijk5N2FmZDJmLWQxM2YtNDhiMy05NzE0LTZjYzNiNmI1MzAzZCIsImRhdGEiOnt9LCJyYW5kb20iOiJmYWMyNmExOTZkOTRkZmVjY2M5ODIwM2FhNTk2N2NkNyJ9.JVNYoxYZWrKEX74V5yMZXNKy5Dg1dFTCa1ZYcN12hIoDxxTYN0ciazrgMYAyu_ZAWbdHtmfz1Yn3v_AxkNFNxQ).
 
 Then place the feature files in the `./features` directory.
 
